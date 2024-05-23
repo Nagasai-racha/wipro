@@ -1,0 +1,94 @@
+Problem Statement:
+Airline reservation system is a modern way and improved method in which clients can
+easily access all information about flights without manual efforts. Most people now days
+travel by means of air, hence this project aims at simplifying their needs by offering a
+wide range of airlines and timings where they can choose from and book their travels.
+The online reservation system gives all details of flight schedules, cost, time, seats and
+check-in details making it easier for the traveler The outcome was implemented using
+programming languages like JavaScript, html, and database management system
+{Mysql}, this improved method will help solve the manual system drawbacks which
+included time consuming and other manual errors. Hence it is more efficient 
+
+ SDLC
+In this project we have followed the Waterfall model. The waterfall model is the most
+familiar model. This model has five phases: requirements analysis and specifications,
+design, implementation and unit testing, integration and system testing, and operation and
+maintenance.
+
+1. Requirements Analysis and Specification Phase:
+ The aim of this phase is to understand the exact requirements of the customer and
+to document them properly. This activity is usually executed together with the
+customer, as the aim is to document all functions, performance and interfacing
+requirements for the software.
+
+For the Flight Reservation Project:
+Functional Requirements
+User Registration and Authentication:
+
+Users can create an account, log in, and log out.
+Authentication mechanisms to ensure secure login.
+Flight Search:
+
+Users can search for flights by date, destination, and other criteria.
+Display available flights with details like time, price, and airline.
+Booking and Reservation:
+
+Users can select a flight and make a reservation.
+Confirmation of booking with a unique reservation ID.
+Payment Processing:
+
+Integration with payment gateways for online payments.
+Handling different payment methods (credit card, debit card, etc.).
+Booking Management:
+
+Users can view, modify, or cancel their bookings.
+Send booking confirmations and updates via email.
+Admin Module:
+
+Admin can add, update, or delete flight details.
+View all bookings and user information.
+Non-Functional Requirements
+Performance:
+
+The system should handle multiple concurrent users.
+Quick response time for search and booking operations.
+Security:
+
+Secure user data and payment information.
+Implement encryption for sensitive data.
+Scalability:
+
+Ability to scale with increasing number of users and flights.
+Usability:
+
+User-friendly interface for both users and administrators.
+Intuitive navigation and design.
+Reliability:
+
+System should be robust with minimal downtime.
+Implement backup and recovery mechanisms.
+
+2. Design phase:
+The aim of this is to modify the requirements specification into a structure that is
+suitable for implementation in any programming language.
+
+For a flight reservation system, the Model-View-Controller (MVC) design pattern is an excellent choice due to its separation of concerns, which helps in organizing the codebase effectively. Here's a detailed breakdown of how the MVC pattern can be implemented in a flight reservation system using Java.
+
+3. Implementation and Unit Testing Phase:
+During testing, the major activities are concentrated around the examination and
+modification of the code. Initially, small modules are tested in isolation from the rest
+of the software product. The objective of unit testing is to oversee that each
+independent module is correctly implemented. This gives little chance to determine
+that the interface between modules is also correct, integration testing is performed.
+
+4. Integration and System Testing Phase:'
+System testing involves the testing of the whole system including the software part.
+This is important to build confidence in the developers before software is delivered to
+the customer or released in the market.
+
+5. Operation and Maintenance Phase:
+Software maintenance is a duty that every development group has to face, when the
+software is delivered to the customer’s site, installed and is operational. Therefore,
+release of software initiates the operation and maintenance phase of the life cycle.
+The time spent and effort required to keep the software operational after release is
+very important. 
